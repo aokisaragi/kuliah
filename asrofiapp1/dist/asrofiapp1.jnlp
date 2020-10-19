@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="asrofiapp1.jnlp">
+    <information>
+        <title>asrofiapp1</title>
+        <vendor>Aliensky</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="asrofiapp1.jar" size="1910" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="Asrofiapp1.Asrofiapp1" name="Asrofiapp1"/>
+</jnlp>
+
